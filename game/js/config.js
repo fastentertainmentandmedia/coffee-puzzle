@@ -7,7 +7,7 @@
 // ============================================================
 
 export const gameConfig = {
-  STORAGE_KEY: 'barista_puzzle',
+  STORAGE_KEY: 'coffee_puzzle',
   PLAY_LIMIT_MINUTES: 5,
   LIMIT_RESET_HOURS: 4,
 
