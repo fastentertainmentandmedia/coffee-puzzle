@@ -85,7 +85,7 @@ FOOD_TYPES: [
     { id: 'iced-latte',      src: 'game/assets/food/iced-latte.png',      weight: 3, padding: 0.05, scale: 1.2 },
     { id: 'iced-coffee',     src: 'game/assets/food/iced-coffee.png',     weight: 3, padding: 0.05, scale: 1.3 },
     { id: 'bubble-tea',      src: 'game/assets/food/bubble-tea.png',      weight: 3, padding: 0.05, scale: 1.3 },
-    { id: 'doughnutstack',   src: 'game/assets/food/doughnutstack.png',   weight: 3, padding: 0.05, scale: 1.05 },
+    { id: 'doughnutstack',   src: 'game/assets/food/doughnutstack.png',   weight: 2, padding: 0.05, scale: 1.05 },
   ],
 
   // Fit для <img>-режима (аналог INGREDIENT_FIT_*)
